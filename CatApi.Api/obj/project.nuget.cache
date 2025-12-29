@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EnMJ6jt2kU8=",
+  "success": true,
+  "projectFilePath": "C:\\Prueba Tecnica Xpertgroup\\CatApi.Api\\CatApi.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julia Beltran R\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\Julia Beltran R\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
