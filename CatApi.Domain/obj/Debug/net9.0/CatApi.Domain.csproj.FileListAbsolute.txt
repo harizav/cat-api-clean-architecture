@@ -1,0 +1,12 @@
+C:\Prueba Tecnica Xpertgroup\CatApi.Domain\bin\Debug\net9.0\CatApi.Domain.deps.json
+C:\Prueba Tecnica Xpertgroup\CatApi.Domain\bin\Debug\net9.0\CatApi.Domain.dll
+C:\Prueba Tecnica Xpertgroup\CatApi.Domain\bin\Debug\net9.0\CatApi.Domain.pdb
+C:\Prueba Tecnica Xpertgroup\CatApi.Domain\obj\Debug\net9.0\CatApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Prueba Tecnica Xpertgroup\CatApi.Domain\obj\Debug\net9.0\CatApi.Domain.AssemblyInfoInputs.cache
+C:\Prueba Tecnica Xpertgroup\CatApi.Domain\obj\Debug\net9.0\CatApi.Domain.AssemblyInfo.cs
+C:\Prueba Tecnica Xpertgroup\CatApi.Domain\obj\Debug\net9.0\CatApi.Domain.csproj.CoreCompileInputs.cache
+C:\Prueba Tecnica Xpertgroup\CatApi.Domain\obj\Debug\net9.0\CatApi.Domain.sourcelink.json
+C:\Prueba Tecnica Xpertgroup\CatApi.Domain\obj\Debug\net9.0\CatApi.Domain.dll
+C:\Prueba Tecnica Xpertgroup\CatApi.Domain\obj\Debug\net9.0\refint\CatApi.Domain.dll
+C:\Prueba Tecnica Xpertgroup\CatApi.Domain\obj\Debug\net9.0\CatApi.Domain.pdb
+C:\Prueba Tecnica Xpertgroup\CatApi.Domain\obj\Debug\net9.0\ref\CatApi.Domain.dll
