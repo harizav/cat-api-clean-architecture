@@ -983,11 +983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Prueba Tecnica Xpertgroup\\BackEnd\\CatApi.Tests\\CatApi.Tests.csproj",
+      "projectUniqueName": "C:\\Prueba Tecnica Xpertgroup\\backend\\CatApi.Tests\\CatApi.Tests.csproj",
       "projectName": "CatApi.Tests",
-      "projectPath": "C:\\Prueba Tecnica Xpertgroup\\BackEnd\\CatApi.Tests\\CatApi.Tests.csproj",
+      "projectPath": "C:\\Prueba Tecnica Xpertgroup\\backend\\CatApi.Tests\\CatApi.Tests.csproj",
       "packagesPath": "C:\\Users\\Julia Beltran R\\.nuget\\packages\\",
-      "outputPath": "C:\\Prueba Tecnica Xpertgroup\\BackEnd\\CatApi.Tests\\obj\\",
+      "outputPath": "C:\\Prueba Tecnica Xpertgroup\\backend\\CatApi.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1008,8 +1008,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Prueba Tecnica Xpertgroup\\BackEnd\\CatApi.Application\\CatApi.Application.csproj": {
-              "projectPath": "C:\\Prueba Tecnica Xpertgroup\\BackEnd\\CatApi.Application\\CatApi.Application.csproj"
+            "C:\\Prueba Tecnica Xpertgroup\\backend\\CatApi.Application\\CatApi.Application.csproj": {
+              "projectPath": "C:\\Prueba Tecnica Xpertgroup\\backend\\CatApi.Application\\CatApi.Application.csproj"
             }
           }
         }

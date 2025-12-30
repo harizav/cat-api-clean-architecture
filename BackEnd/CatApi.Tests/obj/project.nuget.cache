@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fKF6BodMT+U=",
+  "dgSpecHash": "fNgVF8VVMy0=",
   "success": true,
-  "projectFilePath": "C:\\Prueba Tecnica Xpertgroup\\BackEnd\\CatApi.Tests\\CatApi.Tests.csproj",
+  "projectFilePath": "C:\\Prueba Tecnica Xpertgroup\\backend\\CatApi.Tests\\CatApi.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Julia Beltran R\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Julia Beltran R\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",
