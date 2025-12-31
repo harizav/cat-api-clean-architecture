@@ -1,0 +1,38 @@
+.breed-info {
+  margin-top: 20px;
+  max-width: 600px;
+}
+
+.carousel {
+  position: relative;
+  width: 400px;
+  height: 300px;
+  margin-top: 20px;
+}
+
+.carousel img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  border: none;
+  font-size: 24px;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+.nav.left {
+  left: 0;
+}
+
+.nav.right {
+  right: 0;
+}

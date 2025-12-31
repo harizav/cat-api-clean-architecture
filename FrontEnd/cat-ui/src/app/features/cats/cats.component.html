@@ -1,7 +1,26 @@
-<h2>Cat List</h2>
+<h2>Seleccione una raza</h2>
 
-<ul>
-  <li *ngFor="let cat of cats">
-    {{ cat.name }}
-  </li>
-</ul>
+<select [(ngModel)]="selectedBreedId" (change)="onBreedChange()">
+  <option value="" disabled selected>Seleccione...</option>
+  <option *ngFor="let breed of breeds" [value]="breed.id">
+    {{ breed.name }}
+  </option>
+</select>
+
+<!-- INFO DE LA RAZA -->
+<div *ngIf="selectedBreed" class="breed-info">
+  <h3>{{ selectedBreed.name }}</h3>
+  <p>{{ selectedBreed.description }}</p>
+</div>
+
+<!-- CARRUSEL -->
+<div *ngIf="images.length > 0" class="carousel">
+  <button class="nav left" (click)="prev()">‹</button>
+
+  <img
+    [src]="images[currentIndex].url"
+    alt="Cat image"
+  />
+
+  <button class="nav right" (click)="next()">›</button>
+</div>

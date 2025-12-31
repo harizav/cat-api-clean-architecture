@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Prueba Tecnica Xpertgroup\\backend\\CatApi.Domain\\CatApi.Domain.csproj": {}
+    "C:\\Prueba Tecnica Xpertgroup\\BackEnd\\CatApi.Domain\\CatApi.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Prueba Tecnica Xpertgroup\\backend\\CatApi.Domain\\CatApi.Domain.csproj": {
+    "C:\\Prueba Tecnica Xpertgroup\\BackEnd\\CatApi.Domain\\CatApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Prueba Tecnica Xpertgroup\\backend\\CatApi.Domain\\CatApi.Domain.csproj",
+        "projectUniqueName": "C:\\Prueba Tecnica Xpertgroup\\BackEnd\\CatApi.Domain\\CatApi.Domain.csproj",
         "projectName": "CatApi.Domain",
-        "projectPath": "C:\\Prueba Tecnica Xpertgroup\\backend\\CatApi.Domain\\CatApi.Domain.csproj",
+        "projectPath": "C:\\Prueba Tecnica Xpertgroup\\BackEnd\\CatApi.Domain\\CatApi.Domain.csproj",
         "packagesPath": "C:\\Users\\Julia Beltran R\\.nuget\\packages\\",
-        "outputPath": "C:\\Prueba Tecnica Xpertgroup\\backend\\CatApi.Domain\\obj\\",
+        "outputPath": "C:\\Prueba Tecnica Xpertgroup\\BackEnd\\CatApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

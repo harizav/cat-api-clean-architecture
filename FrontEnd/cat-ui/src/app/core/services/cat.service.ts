@@ -1,18 +1,20 @@
-import { HttpClient } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { environment } from '../../../environments/environment';
-import { Observable } from 'rxjs';
+import { HttpClient } from '@angular/common/http';
 
 @Injectable({
   providedIn: 'root'
 })
-export class CatService {
-
-  private readonly apiUrl = `${environment.apiUrl}/cats`;
+export class CatsService {
 
   constructor(private http: HttpClient) {}
 
-  getCats(): Observable<any[]> {
-    return this.http.get<any[]>(this.apiUrl);
+  getBreeds() {
+    return this.http.get<any[]>('https://api.thecatapi.com/v1/breeds');
+  }
+
+  getImagesByBreed(breedId: string) {
+    return this.http.get<any[]>(
+      `https://api.thecatapi.com/v1/images/search?breed_ids=${breedId}&limit=5`
+    );
   }
 }

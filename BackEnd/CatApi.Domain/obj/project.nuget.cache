@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wCWIvdGY2d4=",
+  "dgSpecHash": "AOsmNhGfLsY=",
   "success": true,
-  "projectFilePath": "C:\\Prueba Tecnica Xpertgroup\\backend\\CatApi.Domain\\CatApi.Domain.csproj",
+  "projectFilePath": "C:\\Prueba Tecnica Xpertgroup\\BackEnd\\CatApi.Domain\\CatApi.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
